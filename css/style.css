@@ -1,13 +1,26 @@
+div {
+    font-family: arial, sans-serif;
+}
+
 #old-logo {
     width: 272px;
     height: 92px;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
     margin: 16% auto auto auto;
 }
 
 #Google-Apps {
     height: 30px;
     width: 30px;
+}
+
+#navbar {
+    font-size: 13px;
+}
+
+#Search-bar {
+    display: block;
+    margin: 4% auto auto auto;
+    height: 44px;
+    width: 450px;
 }
