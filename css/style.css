@@ -24,3 +24,10 @@ div {
     height: 44px;
     width: 450px;
 }
+
+#search-buttons {
+    height: 36px;
+    width: 127.367;
+    margin: 11px 4px auto 30%;
+    padding: 0 16px;
+}
